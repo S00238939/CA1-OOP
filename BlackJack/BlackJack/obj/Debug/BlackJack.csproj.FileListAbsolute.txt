@@ -1,0 +1,7 @@
+C:\CA1-OOP\CA1-OOP\CA1-OOP\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\CA1-OOP\CA1-OOP\CA1-OOP\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\CA1-OOP\CA1-OOP\CA1-OOP\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\CA1-OOP\CA1-OOP\CA1-OOP\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+C:\CA1-OOP\CA1-OOP\CA1-OOP\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\CA1-OOP\CA1-OOP\CA1-OOP\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\CA1-OOP\CA1-OOP\CA1-OOP\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
